@@ -37,4 +37,7 @@ h1 {
 
 .student-contributor {
     border: 1px solid;
+    background-color: blue;
+    max-width: 75%;
+    margin: auto;
 }
